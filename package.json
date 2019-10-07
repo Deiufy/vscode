@@ -125,7 +125,7 @@
     "rcedit": "^1.1.0",
     "remap-istanbul": "^0.13.0",
     "rimraf": "^2.2.8",
-    "sinon": "^1.17.2",
+    "sinon": "^7.5.0",
     "source-map": "^0.4.4",
     "ts-loader": "^4.4.2",
     "tslint": "^5.16.0",
